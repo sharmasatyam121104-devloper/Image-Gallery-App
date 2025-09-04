@@ -1,17 +1,48 @@
-<<<<<<< HEAD
-# React + Vite
+# 📸 Image Gallery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React-based Image Gallery App**, built as part of my **25 Days of React Challenge (Day 3)**.  
+The app displays images in a clean and responsive grid layout, making it simple yet effective for beginners to understand React components and styling.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Responsive image grid layout  
+- Clean and minimal UI  
+- Fast development setup with **React + Vite**  
+- Beginner-friendly project structure  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Image-Gallery-App
-A responsive Image Gallery App built with React + Vite. Search and download images instantly using API integration.
->>>>>>> 63351a08cabc807f0f5519ef098de2964411adf5
+## 🛠️ Tech Stack
+- React.js  
+- Vite  
+- JavaScript (ES6+)  
+- CSS3  
+
+---
+
+## 📚 What I Learned
+- Structuring a gallery component in React  
+- Rendering lists of items dynamically  
+- Applying responsive CSS for layouts  
+- Setting up and running projects with Vite  
+
+---
+
+## 🌟 How this project helps developers
+This project is a great way to:  
+- Learn how to build reusable UI components in React  
+- Practice dynamic rendering of data  
+- Understand responsive design with CSS grid  
+- Create a base for advanced apps like image uploaders or API-driven galleries  
+
+---
+
+## ▶️ Getting Started
+Clone the repository and run the app locally:
+
+```bash
+git clone https://github.com/sharmasatyam121104-devloper/Image-Gallery-App.git
+cd Image-Gallery-App
+npm install
+npm run dev
